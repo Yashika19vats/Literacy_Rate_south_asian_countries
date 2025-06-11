@@ -18,5 +18,4 @@
 
 ## 🔗 Tableau Dashboard
 
-[Click here to view the dashboard]([https://public.tableau.com/views/LiteracyRateDashboard/MainView](https://public.tableau.com/app/profile/yashika.vats/viz/Literacy_Rate_of_South_Asian_Country/Dashboard1?publish=yes
-)
+[Click here to view the dashboard][(https://public.tableau.com/app/profile/yashika.vats/viz/Literacy_Rate_of_South_Asian_Country/Dashboard1?publish=yes)]
